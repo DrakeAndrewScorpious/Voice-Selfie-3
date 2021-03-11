@@ -1,0 +1,30 @@
+body
+{
+    background-color: rgb(37, 37, 37);
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}
+#start-btn
+{
+    width: 40%;
+    font-family: 'Lobster', cursive;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgba(255, 255, 255, 0)48, 46, 46;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 500px;
+    height: 500px;
+    font-family: 'Lobster', cursive;
+    font-size: large;
+    color: white;
+}
